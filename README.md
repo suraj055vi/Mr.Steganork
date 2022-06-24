@@ -1,11 +1,12 @@
-## Thank You!
+# Thank You!
 
-#Thanks to  [rlagustlr677][link1] , [SeungyeonKang][link2] and [ur0n2][link3] for Korean language support. You can import Korean letters!
+#Forked from [here][link] [link]: https://github.com/suadev/steganography-dotnet
+#Thanks to rlagustlr677 , SeungyeonKang and ur0n2 for Korean language support. You can import Korean letters!
 
-#[link1]: https://github.com/rlagustlr677
-#[link2]: https://github.com/SeungyeonKang
-#[link3]: https://github.com/ur0n2
-
+[link1]: https://github.com/rlagustlr677
+[link2]: https://github.com/SeungyeonKang
+[link3]: https://github.com/ur0n2
+[link4]:https://github.com/rlagustlr677/steganography-dotnet
 ## An example output that contains 1458 characters. ##
 
  <table>
